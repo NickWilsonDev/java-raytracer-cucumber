@@ -3,5 +3,5 @@ A basic raytracer implemented in Java, using cucumber.
 
 
 ## Main Goals
-Introduction to Cucumber BDD
-Make cool pictures
+1. Introduction to Cucumber BDD
+2. Make cool pictures
